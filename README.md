@@ -7,8 +7,7 @@ Technologies used:
 			*JavaFX and SceneBuilder
 		*Selenium
 		*MySQL
-
-		 Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+ - Item 1
+ - Item 2
+  - Sub Item 1
+  - Sub Item 2
