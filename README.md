@@ -7,7 +7,3 @@ Technologies used:
 	* JavaFX and SceneBuilder
 * Selenium
 * MySQL
- - Item 1
- - Item 2
-  - Sub Item 1
-  - Sub Item 2
