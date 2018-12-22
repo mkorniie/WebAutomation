@@ -3,7 +3,7 @@
 Technologies used:
 * Java:
 	* Java 8 (Optionals, Lambdas)
-	* JDBC
 	* JavaFX and SceneBuilder
+	* JDBC
 * Selenium
 * MySQL
